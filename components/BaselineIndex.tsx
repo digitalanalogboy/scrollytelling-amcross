@@ -18,12 +18,7 @@ export default function BaselineIndex() {
           <Image src={BaseLine01} layout="responsive" />
           <div className="flex w-full justify-center">
             <div className="max-w-6xl">
-              <a
-                href="#"
-                className="py-5 px-10 text-blue-500 font-medium underline text-justify text-xl"
-              >
-                PMI Tanggamus
-              </a>
+              
               <p className="py-5 px-10 text-justify text-xl">
                 Provinsi Lampung dan Nusa Tenggara Timur dipilih sebagai wilayah
                 prioritas tinggi ditetapkan dalam kelas risiko tinggi dalam

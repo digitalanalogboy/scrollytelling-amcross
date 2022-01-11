@@ -38,8 +38,8 @@ export default function Home() {
                 <p className="py-5 px-10 text-justify text-xl">
                   Sejak Januari 2020, Palang Merah Indonesia (PMI) bersama
                   Palang Merah Amerika melanjutkan Program Pengurangan Risiko
-                  Bencana Berbasis Masyarakat (Community Based Disaster Risk
-                  Reduction)
+                  Bencana Berbasis Masyarakat (<i>Community Based Disaster Risk
+                  Reduction</i>)
                 </p>
                 <p className="py-5 px-10 text-justify text-xl">
                   membangun kapasitas dan kesiapan masyarakat dalam merespon
@@ -47,8 +47,8 @@ export default function Home() {
                   menyediakan kebutuhan dasar masyarakat pada kondisi darurat
                   melalui program Program Masyarakat Siaga Bencana Melalui
                   Pengurangan Risiko Bencana Berkelanjutan dan Inklusif
-                  (Fostering Disaster-Ready Communities through Sustainable and
-                  Inclusive Disaster Risk Reduction).
+                  (<i>Fostering Disaster-Ready Communities through Sustainable and
+                  Inclusive Disaster Risk Reduction</i>).
                 </p>
                 <p className="py-5 px-10 text-justify text-xl">
                   Program ini dilaksanakan di dua provinsi dengan melibatkan
